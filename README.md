@@ -2,7 +2,7 @@
 
 ## Synopsis
 A demonstration of magnetic resonance image (MRI) reconstruction using the Fourier transform, in 
-[MATLAB](www.mathworks.com), with examples of some common image artefacts.
+[MATLAB](https://www.mathworks.com), with examples of some common image artefacts.
 
 ## Background
 The nuclear magnetic resonance (NMR) signal can be spatially localised by applying a magnetic field gradient $\mathbf{G}$ across the object of interest:
